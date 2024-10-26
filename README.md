@@ -46,10 +46,10 @@ You will use the following **SIP account credentials** for this task. Ensure tha
 
 - **Username**: `101`
 - **Password**: `ioioio123@@@@@@`
-- **SIP Domain**: `rio.difusedns.com`
-- **WebSocket URL**: `wss://rio.difusedns.com:8443/asterisk-wss`
+- **SIP Domain**: `sip.xtrevo.com`
+- **WebSocket URL**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
-These credentials will allow you to connect to the **Asterisk SIP server** hosted at `rio.difusedns.com` via WebSocket. You will use this configuration to handle both outbound and inbound calls.
+These credentials will allow you to connect to the **Asterisk SIP server** hosted at `sip.xtrevo.com` via WebSocket. You will use this configuration to handle both outbound and inbound calls.
 
 ---
 
@@ -64,8 +64,8 @@ Before you begin coding, you are required to validate the provided SIP account c
 2. Enter the provided **SIP account credentials**:
    - **Username**: `101`
    - **Password**: `ioioio123@@@@@@`
-   - **SIP Domain**: `rio.difusedns.com`
-   - **WebSocket URL**: `wss://rio.difusedns.com:8443/asterisk-wss`
+   - **SIP Domain**: `sip.xtrevo.com`
+   - **WebSocket URL**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
 3. Verify that you can successfully make and receive calls using the web phone. Once the credentials have been validated, proceed with the implementation by integrating them into your Vue.js application.
 
@@ -137,7 +137,7 @@ Your submission will be evaluated based on the following criteria:
 - **SIP User 101**: Use the following test credentials for your implementation:
   - **Username**: `101`
   - **Password**: `ioioio123@@@@@@`
-  - **SIP Server**: `wss://rio.difusedns.com:8443/asterisk-wss`
+  - **SIP Server**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
 - **Testing**: You are required to test the call-making and receiving functionality with **SIP user 101** on the provided SIP server. Ensure proper configuration and handling of the SIP connection.
 
