@@ -45,7 +45,7 @@ You are expected to implement the following functionalities in a **Vue.js** appl
 You will use the following **SIP account credentials** for this task. Ensure that the application is fully integrated with these details:
 
 - **Username**: `101`
-- **Password**: `ioioio123@@@@@@`
+- **Password**: `severalleddepend8912@@`
 - **SIP Domain**: `sip.xtrevo.com`
 - **WebSocket URL**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
@@ -63,7 +63,7 @@ Before you begin coding, you are required to validate the provided SIP account c
    
 2. Enter the provided **SIP account credentials**:
    - **Username**: `101`
-   - **Password**: `ioioio123@@@@@@`
+   - **Password**: `severalleddepend8912@@`
    - **SIP Domain**: `sip.xtrevo.com`
    - **WebSocket URL**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
@@ -136,7 +136,7 @@ Your submission will be evaluated based on the following criteria:
 
 - **SIP User 101**: Use the following test credentials for your implementation:
   - **Username**: `101`
-  - **Password**: `ioioio123@@@@@@`
+  - **Password**: `severalleddepend8912@@`
   - **SIP Server**: `wss://sip.xtrevo.com:8443/asterisk-wss`
 
 - **Testing**: You are required to test the call-making and receiving functionality with **SIP user 101** on the provided SIP server. Ensure proper configuration and handling of the SIP connection.
